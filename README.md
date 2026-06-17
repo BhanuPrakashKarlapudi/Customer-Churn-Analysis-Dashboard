@@ -43,6 +43,8 @@ This Power BI dashboard analyzes customer churn patterns and identifies factors 
 ### Customer Churn Insights
 ![Customer Churn Insights](Customer_Churn_Dashboard Page 2.png)
 
+Dataset not included due to file size limitations
+
 ## Author
 Karlapudi Bhanu Prakash
 Aspiring Data Analyst
