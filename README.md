@@ -35,13 +35,13 @@ This Power BI dashboard analyzes customer churn patterns and identifies factors 
 - Contract length has a significant impact on churn behavior.
 - Customer engagement patterns affect churn probability.
 
-- ## Dashboard Preview
+## Dashboard Preview
 
 ### Customer Churn Overview
-![Customer Churn Overview](Customer_Churn_Dashboard Page 1.png)
+![Customer Churn Overview](Customer_Churn_Dashboard_Page1.png)
 
 ### Customer Churn Insights
-![Customer Churn Insights](Customer_Churn_Dashboard Page 2.png)
+![Customer Churn Insights](Customer_Churn_Dashboard_Page2.png)
 
 Dataset not included due to file size limitations
 
