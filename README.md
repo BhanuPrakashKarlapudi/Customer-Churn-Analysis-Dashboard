@@ -1,2 +1,40 @@
-# Customer-Churn-Analysis-Dashboard
-Customer churn analysis dashboard built in Power BI with interactive visualizations, DAX measures, and business insights.
+# Customer Churn Analysis Dashboard
+
+## Project Overview
+This Power BI dashboard analyzes customer churn patterns and identifies factors influencing customer retention.
+
+## Tools Used
+- Power BI
+- DAX
+- Power Query
+- Excel
+
+## Key KPIs
+- Total Customers
+- Active Customers
+- Churned Customers
+- Churn Rate %
+
+## Dashboard Pages
+
+### Page 1: Customer Churn Overview
+- Customer Churn by Gender
+- Customer Churn by Subscription Type
+- Customer Churn by Contract Length
+
+### Page 2: Customer Churn Insights
+- Churn Rate by Payment Delay
+- Churn Rate by Support Calls
+- Churn Rate by Tenure
+- Churn Rate by Usage Frequency
+- Customer Status Distribution
+
+## Business Insights
+- Customers with higher payment delays show higher churn rates.
+- Subscription type influences customer retention.
+- Contract length has a significant impact on churn behavior.
+- Customer engagement patterns affect churn probability.
+
+## Author
+Karlapudi Bhanu Prakash
+Aspiring Data Analyst
